@@ -1,0 +1,22 @@
+/* You can add global styles to this file, and also import other style files */
+@import "bootstrap/dist/css/bootstrap.css";
+
+
+.row{
+    height: 20px;
+    background-color: rgb(54, 198, 54);
+    color: white;
+}
+
+.navbar{
+    background-color: rgb(54, 198, 54);
+}
+
+.form-group{
+    margin-bottom: 10px;
+}
+
+.btn{
+    margin-top: 10px;
+} 
+

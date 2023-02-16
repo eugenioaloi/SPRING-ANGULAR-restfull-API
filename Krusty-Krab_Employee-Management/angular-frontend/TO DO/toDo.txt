@@ -1,0 +1,2 @@
+- implements the view details of employee
+- show by id the img of the employee
